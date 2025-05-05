@@ -1,0 +1,7 @@
+Flask
+gunicorn
+openai
+requests
+apscheduler
+flask-cors
+python-dotenv
